@@ -6,13 +6,17 @@
 
 ## Introdução
 API simples utilizando Spring-Boot com autenticação com o Spring-Security.
-
+  
 ## Stack
 Spring-Boot, Spring-Security e Docker.
 
+## Requisitos
+- Criação de um novo curso
+- Listagem de todos os cursos
+- Atualização de um curso pelo `id`
+- Remover um curso pelo `id`
+
 ## Conceitos desenvolvidos
-- Login com TokenJWT.
-- Senhas criptografadas.
 - Validações.
 - Tratemento de exceções.
 - Hibernate.
