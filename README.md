@@ -1,5 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Norrels/CouseAPI_Java/assets/94193637/daf7913a-248f-45d5-98ce-134664c6cca3">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Norrels/CouseAPI_Java/assets/94193637/e1aff3d8-ed5b-448c-b5f3-c10a501ff2cf">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Norrels/CouseAPI_Java/assets/94193637/17b54987-f0fa-4230-a4c3-b709412a02aa">
   <img alt="Displays an illustrated text 'Course API' with a gradient ranging from orange to light orange, progressing from left to right." src="https://github.com/Norrels/CouseAPI_Java/assets/94193637/17b54987-f0fa-4230-a4c3-b709412a02aa">
 </picture>
@@ -20,4 +20,3 @@ Spring-Boot
 - Rest API pattern.
 - Conexão com banco de dados.
 - Gerenciandor de dependências (Maven).
-
